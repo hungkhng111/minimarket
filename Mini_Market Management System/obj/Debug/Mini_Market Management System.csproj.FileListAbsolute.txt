@@ -1,0 +1,34 @@
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Mar.148EAD2C.Up2Date
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+E:\A3_II\KiemThuPM\KTPM_TH\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
